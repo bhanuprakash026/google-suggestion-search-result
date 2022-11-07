@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.li {
+  padding-left: 0px;
+  margin-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+}
+.sugg {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.arrow {
+  height: 30px;
+  width: 30px;
+}

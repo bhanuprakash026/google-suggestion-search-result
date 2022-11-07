@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 120px;
+  width: 370x;
+}
+.container {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  /* background: pink; */
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 10px;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.search-icon {
+  height: 30px;
+  width: 30px;
+}
+.input {
+  border-color: transparent;
+  outline: none;
+  width: 600px;
+  padding: 5px;
+  font-family: 'roboto';
+}
+.ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
